@@ -1,8 +1,8 @@
-## About AlphaHub - We bring Learning to People!!
+ About AlphaHub - We bring Learning to People!!
 
 Meaningful learning can happen anytime, anywhere. We are here to help with resources to support effective remote learning experiences for students, teachers and families.
 
-##Features -
+Features -
 Authorized login - A student can login into his/her account(like moodle) to access the
 benefits of the application.
 Four different independent modules -
@@ -17,8 +17,7 @@ price and other information.
 students can ask their queries(in the form of mail) regarding studies so that
 anyone can clear his/her doubts.
 
-
-##Technology Stack/ Tools
+Technology Stack/ Tools
  Languages : PHP
  Framework : LARAVEL
  Database : MySQL
