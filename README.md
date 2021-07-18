@@ -7,8 +7,6 @@ Meaningful learning can happen anytime, anywhere. We are here to help with resou
 -  Digital Repository - A student will get all the study materials (pdf ,images ,text ,ppt ,syllabus) at one place.
 -  Digitized notice - One separate section will be provided in the application itself where students will be able to see any college notices, circulars.
 -  Buy and sell - Students can sell their study materials like old books. And anyone can buy those materials provided with respective students' mobile number, book price and other information.
--  Forum section - discussion : It will be the complete discussion section in which students can ask their queries(in the form of mail) regarding studies so that
-anyone can clear his/her doubts.
 
 ## Technology Stack/ Tools :
  - Languages : PHP
